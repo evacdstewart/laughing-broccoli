@@ -1,3 +1,10 @@
+# hide project specific things
+# can put a folder name and then / to indicate anything in that folder
+# *. something means anything of that file type
+test/
+*.ppt
+*.docx
+
 # History files
 .Rhistory
 .Rapp.history
