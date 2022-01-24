@@ -1,0 +1,21 @@
+---
+title: "test"
+author: "Eva Stewart"
+date: "21/01/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Title
+
+## subheading
+### sub-subheading
+
+In this section i am using this data and i'm going to do this test to it
+```{r}
+data <- c(1, 2, 3, 4, 5, 6, 7)
+```
+
